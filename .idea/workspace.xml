@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f75ac174-4d56-4865-9dcf-9fff8da1f928" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kdNT63KfctQbY322BWug5p3m10" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ir.ac.tick.soft.source" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RepeatedTestDemo.translate_simpleSentence_returnTranslatedSentence">
+    <configuration name="CustomConditionsDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.ac.tick.soft.source.conditional.test.execution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ir.ac.tick.soft.source.conditional.test.execution" />
+      <option name="MAIN_CLASS_NAME" value="ir.ac.tick.soft.source.conditional.test.execution.CustomConditionsDemo" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnvironmentVariablesConditionsDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.ac.tick.soft.source.conditional.test.execution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ir.ac.tick.soft.source.conditional.test.execution" />
+      <option name="MAIN_CLASS_NAME" value="ir.ac.tick.soft.source.conditional.test.execution.EnvironmentVariablesConditionsDemo" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatedTestDemo.multiply_twoNumber_returnCorrectResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.ac.tick.soft.source.repeated.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ir.ac.tick.soft.source.repeated.test" />
+      <option name="MAIN_CLASS_NAME" value="ir.ac.tick.soft.source.repeated.test.RepeatedTestDemo" />
+      <option name="METHOD_NAME" value="multiply_twoNumber_returnCorrectResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatedTestDemo.translate_simpleSentence_returnTranslatedSentence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.ac.tick.soft.source.repeated.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ir.ac.tick.soft.source.repeated.test" />
+      <option name="MAIN_CLASS_NAME" value="ir.ac.tick.soft.source.repeated.test.RepeatedTestDemo" />
+      <option name="METHOD_NAME" value="translate_simpleSentence_returnTranslatedSentence" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClassDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.ac.tick.soft.source.assertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ir.ac.tick.soft.source" />
+      <option name="MAIN_CLASS_NAME" value="ir.ac.tick.soft.source.TestClassDemo" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit-testing test" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.unit-testing test" />
+      <item itemvalue="JUnit.EnvironmentVariablesConditionsDemo" />
+      <item itemvalue="JUnit.CustomConditionsDemo" />
+      <item itemvalue="JUnit.TestClassDemo.test" />
+      <item itemvalue="JUnit.RepeatedTestDemo.multiply_twoNumber_returnCorrectResult" />
+      <item itemvalue="JUnit.RepeatedTestDemo.translate_simpleSentence_returnTranslatedSentence" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RepeatedTestDemo.translate_simpleSentence_returnTranslatedSentence" />
+        <item itemvalue="JUnit.RepeatedTestDemo.multiply_twoNumber_returnCorrectResult" />
+        <item itemvalue="JUnit.TestClassDemo.test" />
+        <item itemvalue="JUnit.CustomConditionsDemo" />
+        <item itemvalue="JUnit.EnvironmentVariablesConditionsDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f75ac174-4d56-4865-9dcf-9fff8da1f928" name="Default Changelist" comment="" />
+      <created>1606026512228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606026512228</updated>
+      <workItem from="1606026517732" duration="18684000" />
+      <workItem from="1606067076604" duration="264000" />
+      <workItem from="1606102483190" duration="260000" />
+      <workItem from="1606108996474" duration="2491000" />
+      <workItem from="1606194387909" duration="7051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

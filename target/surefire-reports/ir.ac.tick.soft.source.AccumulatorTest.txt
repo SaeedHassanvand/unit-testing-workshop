@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ir.ac.tick.soft.source.AccumulatorTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.114 s - in ir.ac.tick.soft.source.AccumulatorTest
