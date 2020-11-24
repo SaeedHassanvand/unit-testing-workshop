@@ -1,8 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f75ac174-4d56-4865-9dcf-9fff8da1f928" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="f75ac174-4d56-4865-9dcf-9fff8da1f928" name="Default Changelist" comment="Complete Junit 5 features with new test classes">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ir/ac/tick/soft/source/write/testable/code/BackyardLightSwitcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ir/ac/tick/soft/source/write/testable/code/SmartHomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ir/ac/tick/soft/source/write/testable/code/TimeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ir/ac/tick/soft/source/dynamic/test/DynamicTestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ir/ac/tick/soft/source/execution/order/OrderedTestsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ir/ac/tick/soft/source/timeout/TimeoutDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/unit-testing.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/ac/tick/soft/source/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/ac/tick/soft/source/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/unit-testing.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ir/ac/tick/soft/source/AssertionsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ir/ac/tick/soft/source/DisplayNameDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ir/ac/tick/soft/source/DisplayNameGeneratorDemo$A_year_is_a_leap_year.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ir/ac/tick/soft/source/DisplayNameGeneratorDemo$A_year_is_not_supported.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ir/ac/tick/soft/source/DisplayNameGeneratorDemo.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,13 +51,32 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1kdNT63KfctQbY322BWug5p3m10" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -28,52 +86,56 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="ir.ac.tick.soft.source" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ir.ac.tick.soft.source.write.testable.code" />
+    </key>
   </component>
   <component name="RunManager" selected="JUnit.RepeatedTestDemo.translate_simpleSentence_returnTranslatedSentence">
-    <configuration name="CustomConditionsDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="unit-testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ir.ac.tick.soft.source.conditional.test.execution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ir.ac.tick.soft.source.conditional.test.execution" />
-      <option name="MAIN_CLASS_NAME" value="ir.ac.tick.soft.source.conditional.test.execution.CustomConditionsDemo" />
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnvironmentVariablesConditionsDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="unit-testing" />
+    <configuration name="DynamicTestsDemo.dynamicTestsFromStreamFactoryMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing-workshop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ir.ac.tick.soft.source.conditional.test.execution.*" />
+          <option name="PATTERN" value="ir.ac.tick.soft.source.dynamic.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ir.ac.tick.soft.source.conditional.test.execution" />
-      <option name="MAIN_CLASS_NAME" value="ir.ac.tick.soft.source.conditional.test.execution.EnvironmentVariablesConditionsDemo" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="ir.ac.tick.soft.source.dynamic.test" />
+      <option name="MAIN_CLASS_NAME" value="ir.ac.tick.soft.source.dynamic.test.DynamicTestsDemo" />
+      <option name="METHOD_NAME" value="dynamicTestsFromStreamFactoryMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicTestsDemo.generateRandomNumberOfTestsFromIterator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing-workshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.ac.tick.soft.source.dynamic.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ir.ac.tick.soft.source.dynamic.test" />
+      <option name="MAIN_CLASS_NAME" value="ir.ac.tick.soft.source.dynamic.test.DynamicTestsDemo" />
+      <option name="METHOD_NAME" value="generateRandomNumberOfTestsFromIterator" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="RepeatedTestDemo.multiply_twoNumber_returnCorrectResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="unit-testing" />
+      <module name="unit-testing-workshop" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ir.ac.tick.soft.source.repeated.test.*" />
@@ -89,7 +151,7 @@
       </method>
     </configuration>
     <configuration name="RepeatedTestDemo.translate_simpleSentence_returnTranslatedSentence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="unit-testing" />
+      <module name="unit-testing-workshop" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ir.ac.tick.soft.source.repeated.test.*" />
@@ -104,17 +166,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClassDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="unit-testing" />
+    <configuration name="TimeUtilV1Test.getTimeOfDay_At11AM_ReturnMorning" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing-workshop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ir.ac.tick.soft.source.assertions.*" />
+          <option name="PATTERN" value="ir.ac.tick.soft.source.write.testable.code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ir.ac.tick.soft.source" />
-      <option name="MAIN_CLASS_NAME" value="ir.ac.tick.soft.source.TestClassDemo" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="ir.ac.tick.soft.source.write.testable.code" />
+      <option name="MAIN_CLASS_NAME" value="ir.ac.tick.soft.source.write.testable.code.TimeUtilV1Test" />
+      <option name="METHOD_NAME" value="getTimeOfDay_At11AM_ReturnMorning" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -147,9 +209,9 @@
     </configuration>
     <list>
       <item itemvalue="Maven.unit-testing test" />
-      <item itemvalue="JUnit.EnvironmentVariablesConditionsDemo" />
-      <item itemvalue="JUnit.CustomConditionsDemo" />
-      <item itemvalue="JUnit.TestClassDemo.test" />
+      <item itemvalue="JUnit.TimeUtilV1Test.getTimeOfDay_At11AM_ReturnMorning" />
+      <item itemvalue="JUnit.DynamicTestsDemo.generateRandomNumberOfTestsFromIterator" />
+      <item itemvalue="JUnit.DynamicTestsDemo.dynamicTestsFromStreamFactoryMethod" />
       <item itemvalue="JUnit.RepeatedTestDemo.multiply_twoNumber_returnCorrectResult" />
       <item itemvalue="JUnit.RepeatedTestDemo.translate_simpleSentence_returnTranslatedSentence" />
     </list>
@@ -157,12 +219,13 @@
       <list>
         <item itemvalue="JUnit.RepeatedTestDemo.translate_simpleSentence_returnTranslatedSentence" />
         <item itemvalue="JUnit.RepeatedTestDemo.multiply_twoNumber_returnCorrectResult" />
-        <item itemvalue="JUnit.TestClassDemo.test" />
-        <item itemvalue="JUnit.CustomConditionsDemo" />
-        <item itemvalue="JUnit.EnvironmentVariablesConditionsDemo" />
+        <item itemvalue="JUnit.DynamicTestsDemo.dynamicTestsFromStreamFactoryMethod" />
+        <item itemvalue="JUnit.DynamicTestsDemo.generateRandomNumberOfTestsFromIterator" />
+        <item itemvalue="JUnit.TimeUtilV1Test.getTimeOfDay_At11AM_ReturnMorning" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -178,10 +241,73 @@
       <workItem from="1606102483190" duration="260000" />
       <workItem from="1606108996474" duration="2491000" />
       <workItem from="1606194387909" duration="7051000" />
+      <workItem from="1606210077134" duration="16118000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Complete Junit 5 features with new test classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Junit 5 features with new test classes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="718" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1606230841075">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="126" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1366.65.1366.728@0.0.1920.1040" timestamp="1606230841075" />
+    <state x="693" y="364" width="533" height="324" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606233072846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="693" y="364" width="533" height="324" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1366.65.1366.728@0.0.1920.1040" timestamp="1606233072846" />
+    <state width="1865" height="267" key="GridCell.Tab.0.bottom" timestamp="1606235011002">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.65.1366.728@0.0.1920.1040" timestamp="1606235011002" />
+    <state width="1865" height="267" key="GridCell.Tab.0.center" timestamp="1606235011001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="267" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.65.1366.728@0.0.1920.1040" timestamp="1606235011001" />
+    <state width="1865" height="267" key="GridCell.Tab.0.left" timestamp="1606235011001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="267" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.65.1366.728@0.0.1920.1040" timestamp="1606235011001" />
+    <state width="1865" height="267" key="GridCell.Tab.0.right" timestamp="1606235011002">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="267" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.65.1366.728@0.0.1920.1040" timestamp="1606235011002" />
+    <state width="1865" height="331" key="GridCell.Tab.1.bottom" timestamp="1606228756104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="331" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1366.65.1366.728@0.0.1920.1040" timestamp="1606228756104" />
+    <state width="1865" height="331" key="GridCell.Tab.1.center" timestamp="1606228756104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="331" key="GridCell.Tab.1.center/0.0.1920.1040/-1366.65.1366.728@0.0.1920.1040" timestamp="1606228756104" />
+    <state width="1865" height="331" key="GridCell.Tab.1.left" timestamp="1606228756104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="331" key="GridCell.Tab.1.left/0.0.1920.1040/-1366.65.1366.728@0.0.1920.1040" timestamp="1606228756104" />
+    <state width="1865" height="331" key="GridCell.Tab.1.right" timestamp="1606228756104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="331" key="GridCell.Tab.1.right/0.0.1920.1040/-1366.65.1366.728@0.0.1920.1040" timestamp="1606228756104" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/unit_testing_workshop$AccumulatorTest.ic" NAME="AccumulatorTest Coverage Results" MODIFIED="1606223006791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ir.ac.tick.soft.source.*</FILTER>
+    </SUITE>
   </component>
 </project>
